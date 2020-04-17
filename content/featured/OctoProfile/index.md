@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'End-to-End ETL Data Pipeline'
+cover: './end.png'
+github: 'https://github.com/Mickey374/Blossom_Data_Engineering/tree/master/Project3'
+external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Pyspark
+  - DBeaver
+  - Postgres Database
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Read data using PySpark, perform some transformations and join two distinct datasets, create a temp table using SQL, connect to Postgres Database using the Postgresql driver.

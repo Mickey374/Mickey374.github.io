@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Web Scraping using Beautiful Soup'
+cover: './web.png'
+github: 'https://github.com/Mickey374/Blossom_Data_Engineering/tree/master/Project4'
+external: ''
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Beautiful soup
+  - Pandas
+  - Numpy
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Scrape data of real estates on Meqasa, clean and store results to a csv file and commit the results unto a local repository on Github.

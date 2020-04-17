@@ -1,14 +1,14 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
+date: '2019-06-06'
+title: 'Diagnosify Skin Disease Detection App'
 github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+external: 'https://medium.com/@ghanatechlab/ai-startup-diagnosify-to-aid-patients-with-proficient-diagnosis-and-treatment-of-skin-diseases-36ae0dd8bec6'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - AWS
+  - Python
+  - Flutter | Dart
+company: 'Diagnosify'
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+An AI model to detect skin diseases, predict them and assign users to dermatologist based on how mild it is. Read more about it on [Ghana Tech Lab](https://medium.com/@ghanatechlab/ai-startup-diagnosify-to-aid-patients-with-proficient-diagnosis-and-treatment-of-skin-diseases-36ae0dd8bec6).

@@ -1,14 +1,14 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+title: 'Segmenting Customers using KMeans Clustering'
+github: 'https://github.com/Mickey374/Customer-Segmentation-Analysis'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Numpy
+  - K-Nearest Neighbor
+  - Standard Scaler
+company: 'Apon'
 showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Customer consumption patterns are grouped using the KMeans Clustering Algorithm with the number of clusters to be 3 using the Elbow Method to determine the efficient number of clusters
